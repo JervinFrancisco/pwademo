@@ -1,5 +1,11 @@
 body {
-background: #eeeeee;
+    margin:0;
+    background-color:#010712;
+    background-image:url(https://static.pexels.com/photos/1526/dark-blur-blurred-gradient.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    height:1vh;
 }
 .cal{
     margin:0;
