@@ -1,19 +1,10 @@
 body {
 background: #eeeeee;
 }
-.cal{
-    margin:0;
-    background-color:#010712;
-    background-image:url(https://static.pexels.com/photos/1526/dark-blur-blurred-gradient.jpg);
-    background-size:cover;
-    background-position:center;
-    background-repeat:no-repeat;
-    height:100vh;
-  }
+
 .container{
     width:400px;
     height:200px;
-    position:relative;
     perspective: 1000;
     -webkit-perspective: 1000;
     left:calc(50% - 200px);
